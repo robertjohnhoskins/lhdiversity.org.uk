@@ -13,7 +13,7 @@ status: published
 <img src="{{ site.baseurl }}{{ partner.portrait }}" alt="{{ partner.title }}" class="thumbnail image--full">
 </div>
 <div class="large-9 columns">
-<h4><a href="{{ partner.url }}">{{ partner.title }}</a></h4>
+<h4><a href="{{ partner.url | prepend: site.baseurl }}">{{ partner.title }}</a></h4>
 {{ partner.content }}
 </div>
 </div>

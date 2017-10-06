@@ -13,7 +13,7 @@ status: published
     {% if member.layout == "team-member" %}
       <div class="column column-block">
         <img src="{{ site.baseurl }}{{ member.portrait }}" class="thumbnail image--full" alt="{{ member.title }}">
-        <h4><a href="{{ member.url }}">{{ member.title }}</a></h4>
+        <h4><a href="{{ member.url | prepend: site.baseurl }}">{{ member.title }}</a></h4>
         <h5>{{ member.position }}</h5>
       </div>
     {% endif %}

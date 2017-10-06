@@ -11,7 +11,7 @@ imgThumbnail: /assets/images/pages/
   {% for hero in site.heroes %}
     <div class="column column-block">
       <img src="{{ site.baseurl }}{{ hero.portrait }}" alt="{{ hero.title }}" class="thumbnail image--full">
-      <h4><a href="{{ hero.url }}">{{ hero.title }}</a></h4>
+      <h4><a href="{{ hero.url | prepend: site.baseurl }}">{{ hero.title }}</a></h4>
     </div>
   {% endfor %}
 </div>
