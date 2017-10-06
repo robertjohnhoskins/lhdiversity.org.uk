@@ -1,0 +1,12 @@
+<footer class="site__footer">
+  <div class="row">
+    <div class="large-12 columns">
+      <ul class="vertical medium-horizontal menu">
+      {% for link in site.data.navigation.links %}
+        <li><a href="{{ site.baseurl }}{{ link.link }}">{{ link.text}}</a></li>
+      {% endfor %}
+      </ul>
+      <p><small>Local Heroes is the trading name of LHDiversity; a registered Charitable Incorporated Organisation. Registered Address: 6 Crofts, Sandford, Crediton, Devon, EX17 4LX. Registration No: 1157135 | Contact <a href="mailto: info@lhdiversity.org.uk">info@lhdiversity.org.uk</a> | Cookies policy | Website <a href="http://www.designbyhoskins.co.uk">designbyhoskins.co.uk</a></small></p>
+    </div>
+  </div>
+</footer>

@@ -1,0 +1,21 @@
+links:
+  - link: /index.html
+    text: Home
+  - link: /about-us
+    text: About us
+  - link: /our-work
+    text: Our work
+  - link: /our-team
+    text: Our team
+  - link: /our-heroes
+    text: Our heroes
+  - link: /our-partners
+    text: Our partners
+  - link: /testimonials
+    text: Testimonials
+  - link: /news
+    text: News
+  - link: /donate
+    text: Donate
+  - link: /contact-us
+    text: Contact us

@@ -1,0 +1,15 @@
+<header class="site__header">
+  <div class="row">
+    <div class="large-4 medium-4 columns">
+      <a href="{{ site.url }}"><img src="{{ site.baseurl }}/assets/images/LH-2017-LOGO.png" alt="Local Heroes" class="site-logo"></a>
+    </div>
+    <div class="large-8 medium-8 columns">
+      <ul class="vertical menu icon-right align-right">
+        {% for s in site.data.social %}
+          {% assign icon = s.icon | prepend: "fi-social-"%}
+          <li><a href="{{ s.link }}"><span>{{ s.name }}</span> <i class="{{ icon }}"></i></a></li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</header>

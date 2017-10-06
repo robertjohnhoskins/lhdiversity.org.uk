@@ -1,0 +1,28 @@
+---
+# this ensures Jekyll reads the file to be transformed into CSS later
+# only Main files contain this front matter, not partials.
+---
+
+@import "vendor/tachyons/tachyons";
+
+.article {
+  h1, h2, h3, h4, h5, h6 {
+    @extend .mid-gray, .mt4, .mb3, .lh-title;
+  }
+  p {
+    @extend .lh-copy, .near-black, .f6, .measure;
+  }
+  p:first-of-type {
+    @extend .f3, .measure;
+  }
+  ul {
+    @extend .lh-copy, .near-black, .f6, .measure;
+
+    li {
+      @extend .lh-copy, .near-black;
+    }
+  }
+  a {
+    @extend .yellow, .underline;
+  }
+}

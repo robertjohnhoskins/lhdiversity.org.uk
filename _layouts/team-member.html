@@ -1,0 +1,31 @@
+---
+layout: base
+---
+<article class="article row">
+  <header class="article__header large-12 columns">
+    {% if page.title %}
+    <h1 class="article__title">{{ page.title | escape }}</h1>
+    {% endif %}
+  </header>
+  <section class="article__section large-8 columns">
+    {{ content }}
+  </section>
+  <aside class="article__aside large-4 columns">
+    <img src="{{ site.baseurl }}{{ page.portrait }}" alt="{{ page.title }}" class="thumbnail image--full">
+    {% if page.section %}
+    <ul class="vertical menu">
+      {% assign contents = site.content | sort: "section_order" %}
+      {% for p in content %}
+      {% if p.section == page.section and p.url != page.url %}
+      <li class="">
+        <a href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a>
+      </li>
+      {% endif %}
+      {% endfor %}
+    </ul>
+    {% endif %}
+  </aside>
+  <footer class="article__footer large-12 columns">
+    <a href="{{ site.baseurl }}/our-team" class="button">Back to Our Team</a>
+  </footer>
+</article>
