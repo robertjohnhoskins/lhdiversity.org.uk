@@ -17,7 +17,7 @@ Local Heroes is a growing anti-hate crime charity that exists to inspire young p
 
 ## Our Work
 
-<img src="{{ site.baseurl }}/assets/images/roadmap.png" alt="our roadmap" class="">
+<img src="{{ site.baseurl }}/assets/images/about-us/roadmap.png" alt="our roadmap" class="">
 
 The Local Heroes’ programme has been designed to inspire children and young people to challenge intolerance and make positive contributions to their lives and communities.  We achieve this by providing a programme that has specifically been designed to support young people’s spiritual, moral, social and cultural development in a variety of formal and non-formal settings and comprises of three complimentary activities:
 
@@ -33,11 +33,11 @@ Our programme has been designed with the needs of schools and other young-person
 
 *“The day has really equipped our pupil ambassadors to challenge the full range of discrimination, which they may hear, see or experience - it has absolutely been the best anti-bullying event I’ve ever been involved with.”*
 
-<img src="{{ site.baseurl }}/assets/images/about-us-1.jpg" alt="our roadmap" class="float-right">
+<img src="{{ site.baseurl }}/assets/images/about-us/about-us-1.jpg" alt="our roadmap" class="float-right">
 
 To date, we have delivered roadshows across England and created close to 800 young ambassadors. We have done this with the support of Paralympians, TV personalities, Athletes, Professional Basketball and Rugby Teams and Premier League Football Clubs. Local Heroes innovative practice in supporting schools tackle prejudice and hate crime has also been identified as an example of best practice in hate crime education by Truevision at the Ministry of Justice and received support from Ministers at the Department for Education.  
 
-<img src="{{ site.baseurl }}/assets/images/about-us-2.jpg" alt="our roadmap" class="float-right">
+<img src="{{ site.baseurl }}/assets/images/about-us/about-us-2.jpg" alt="our roadmap" class="float-right">
 
 Every young person we work with is encouraged to make a pledge and state how they will become Local Heroes Ambassadors in their own schools and communities:
 
@@ -51,4 +51,4 @@ Every young person we work with is encouraged to make a pledge and state how the
 
 Local Heroes has also been trialling its learning model as professional training tool.  We will look to build on our success working with Premiership Rugby and will look to test the professional services market where interest in our model has been shown.
 
-<img src="{{ site.baseurl }}/assets/images/about-us-2.jpg" alt="our roadmap" class="">
+<img src="{{ site.baseurl }}/assets/images/about-us/about-us-2.jpg" alt="our roadmap" class="">
