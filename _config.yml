@@ -24,7 +24,7 @@ description: > # this means to ignore newlines until "baseurl:"
 
 # Abroad
 baseurl: "/lhdiversity.org.uk" # the subpath of your site, e.g. /blog
-url: "https://robertjohnhoskins.github.io/lhdiversity.org.uk" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://robertjohnhoskins.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
