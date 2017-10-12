@@ -16,9 +16,15 @@
 title: Local Heroes
 email: info@lhdiversity.org.uk
 description: > # this means to ignore newlines until "baseurl:"
-  Local Heroes is project that was piloted by Devon and Cornwall Police in the autumn of 2013 to help schools address issues of intolerance and discrimation and deliver parts of the PSHE curriculum in a new and exciting way.
-baseurl: "/lhdiversity.org.uk" # the subpath of your site, e.g. /blog
-url: "https://robertjohnhoskins.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+  Local Heroes is a growing hate crime awareness charity that exists to inspire young people from all backgrounds to maximise their potential and the role they play in society. We work with “local heroes” to raise awareness of prejudice and hate crime; inspiring children and young people to celebrate diversity, value difference, nurture change and prevent prejudice based bullying.
+
+# Local
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Abroad
+#baseurl: "/lhdiversity.org.uk" # the subpath of your site, e.g. /blog
+#url: "https://robertjohnhoskins.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown

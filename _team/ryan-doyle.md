@@ -10,7 +10,7 @@ position: Chair
 portrait: /assets/images/our-team/ryan-doyle.jpeg
 ---
 
-Inspector Ryan Doyle combines his day job as Strategic Partnerships' Inspector at Devon & Cornwall Police with being the Chair of Local Heroes.  It is through his hard work, commitment and passion that Local Heroes has grown from being an idea on a push bike to the what we have today.
+Ryan balances his day job as a Chief Inspector with Devon and Cornwall Police with being the Chair of Local Heroes.  It is through his hard work, commitment and passion that Local Heroes has grown from being an idea on a push bike to the what we have today.
 
 *"I started Local Heroes for the same reason I joined the Police service; to make a positive impact on society. I have been a police officer for 11 years and the development of Local Heroes is one of my proudest achievements. We have been fortunate to work with some truly inspirational heroes and young people and the plans that the team and I have for the future means that Local Heroes will continue to get better and better.
 

@@ -41,14 +41,14 @@ To date, we have delivered roadshows across England and created close to 800 you
 
 Every young person we work with is encouraged to make a pledge and state how they will become Local Heroes Ambassadors in their own schools and communities:
 
-“I will stand by anyone who feels uncomfortable or different because of their race, disability or social awareness.  Make sure people are always involved in social activity.  Don’t leave people out just because they may be different.”
+*“I will stand by anyone who feels uncomfortable or different because of their race, disability or social awareness.  Make sure people are always involved in social activity.  Don’t leave people out just because they may be different.”*
 
-“Call time out on hate crime. I will not use gay as a bad word.  Schools should be able to let us be us.”
+*“Call time out on hate crime. I will not use gay as a bad word.  Schools should be able to let us be us.”*
 
-“Teach myself and others to respect and treat others equally.  Teach the younger years and my own year that being whatever and whoever they want to be is ok.”
+*“Teach myself and others to respect and treat others equally.  Teach the younger years and my own year that being whatever and whoever they want to be is ok.”*
 
-“I pledge to help others be informed about the things I learnt today and to tell someone and stop hate crime when it happens.  I shall help people get through hate crime and to try to stop it in every way possible.”
+*“I pledge to help others be informed about the things I learnt today and to tell someone and stop hate crime when it happens.  I shall help people get through hate crime and to try to stop it in every way possible.”*
 
 Local Heroes has also been trialling its learning model as professional training tool.  We will look to build on our success working with Premiership Rugby and will look to test the professional services market where interest in our model has been shown.
 
-<img src="{{ site.baseurl }}/assets/images/about-us/about-us-2.jpg" alt="our roadmap" class="">
+<img src="{{ site.baseurl }}/assets/images/about-us/about-us-3.jpg" alt="our roadmap" class="">
