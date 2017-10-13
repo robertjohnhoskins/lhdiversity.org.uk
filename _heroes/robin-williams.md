@@ -1,6 +1,6 @@
 ---
 layout: local-hero
-permalink: "/our-heroes/robin-williams"
+permalink: "/our-heroes/robin-williams/"
 title: Robin Williams
 status: published
 imgBanner: /assets/images/pages/

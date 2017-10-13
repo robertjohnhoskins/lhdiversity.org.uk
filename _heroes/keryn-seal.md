@@ -1,6 +1,6 @@
 ---
 layout: local-hero
-permalink: "/our-heroes/keryn-seal"
+permalink: "/our-heroes/keryn-seal/"
 title: Keryn Seal
 status: published
 imgBanner: /assets/images/pages/

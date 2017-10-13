@@ -1,6 +1,6 @@
 ---
 layout: team-member
-permalink: "/our-team/john-lee"
+permalink: "/our-team/john-lee/"
 title: John Lee OBE
 status: published
 imgBanner: /assets/images/pages/

@@ -1,6 +1,6 @@
 ---
 layout: local-hero
-permalink: "/our-heroes/sachar-head"
+permalink: "/our-heroes/sachar-head/"
 title: Sachar Head
 status: published
 imgBanner: /assets/images/pages/

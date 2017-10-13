@@ -1,6 +1,6 @@
 ---
 layout: local-hero
-permalink: "/our-heroes/jordanne-whiley"
+permalink: "/our-heroes/jordanne-whiley/"
 title: Jordanne Whiley MBE
 status: published
 imgBanner: /assets/images/pages/

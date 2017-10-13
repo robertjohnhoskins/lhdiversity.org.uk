@@ -1,6 +1,6 @@
 ---
 layout: team-member
-permalink: "/our-team/clarise-patison"
+permalink: "/our-team/clarise-patison/"
 title: Clarise Patison
 status: published
 imgBanner: /assets/images/pages/

@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: "/about-us/how-we-can-help-your-school"
+permalink: "/about-us/how-we-can-help-your-school/"
 section: /about-us
 section_order: 3
 title: How we can help your school

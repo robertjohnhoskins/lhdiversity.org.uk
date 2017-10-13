@@ -1,6 +1,6 @@
 ---
 layout: team-member
-permalink: "/our-team/glenn-cosby"
+permalink: "/our-team/glenn-cosby/"
 title: Glenn Cosby
 status: published
 imgBanner: /assets/images/pages/

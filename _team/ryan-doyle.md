@@ -1,6 +1,6 @@
 ---
 layout: team-member
-permalink: "/our-team/john-lee"
+permalink: "/our-team/john-lee/"
 title: Ryan Doyle
 status: published
 imgBanner: /assets/images/pages/

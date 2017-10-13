@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: "/about-us/how-we-help-young-people"
+permalink: "/about-us/how-we-help-young-people/"
 section: /about-us
 section_order: 2
 title: How we help young people

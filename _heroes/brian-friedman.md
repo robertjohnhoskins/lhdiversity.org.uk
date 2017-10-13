@@ -1,6 +1,6 @@
 ---
 layout: local-hero
-permalink: "/our-heroes/brian-friedman"
+permalink: "/our-heroes/brian-friedman/"
 title: Brian Friedman
 status: published
 imgBanner: /assets/images/pages/

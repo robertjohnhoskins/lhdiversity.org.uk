@@ -1,6 +1,6 @@
 ---
 layout: team-member
-permalink: "/our-team/lisa-smith"
+permalink: "/our-team/lisa-smith/"
 title: Lisa Smith
 status: published
 imgBanner: /assets/images/pages/

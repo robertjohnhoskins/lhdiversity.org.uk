@@ -1,6 +1,6 @@
 ---
 layout: local-hero
-permalink: "/our-heroes/sarah-pearson"
+permalink: "/our-heroes/sarah-pearson/"
 title: Sarah Pearson
 status: published
 imgBanner: /assets/images/pages/

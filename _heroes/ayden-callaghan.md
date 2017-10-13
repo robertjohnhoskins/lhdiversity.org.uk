@@ -1,6 +1,6 @@
 ---
 layout: local-hero
-permalink: "/our-heroes/ayden-callaghan"
+permalink: "/our-heroes/ayden-callaghan/"
 title: Ayden Callaghan
 status: published
 imgBanner: /assets/images/pages/

@@ -1,6 +1,6 @@
 ---
 layout: local-hero
-permalink: "/our-heroes/katherine-endacott"
+permalink: "/our-heroes/katherine-endacott/"
 title: Katherine Endacott
 status: published
 imgBanner: /assets/images/pages/

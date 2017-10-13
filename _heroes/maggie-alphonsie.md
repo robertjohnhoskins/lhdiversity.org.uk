@@ -1,6 +1,6 @@
 ---
 layout: local-hero
-permalink: "/our-heroes/maggie-alphonsi"
+permalink: "/our-heroes/maggie-alphonsi/"
 title: Maggie Alphonsi
 status: published
 imgBanner: /assets/images/pages/

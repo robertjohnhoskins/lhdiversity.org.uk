@@ -1,8 +1,6 @@
 ---
 layout: default
-permalink: "/about-us/what-is-hate-crime"
-section: /about-us
-section_order: 7
+permalink: "/what-is-hate-crime/"
 title: What is Hate Crime?
 status: published
 imgBanner: /assets/images/pages/
@@ -28,15 +26,13 @@ A hate incident is perceived by the victim or any other person to be motivated b
 
 **No-one should have to live in fear or anxiety. You do not have to suffer in silence. We urge you to report hate crime and incidents.**
 
-Be a hero and #CallTimeOut on Hate Crime
-
 <hr>
 
 ## How to Report
 
 You can report Hate Crime and incidents directly to your local police, or through a “Third party” reporting mechanism.
 
-Police:
+**Police:**
 
 If it is an emergency where life is threatened, people are injured or offenders are nearby and an urgent response is required, ring 999. If it is not an emergency you should call 101. By reporting a hate crime/incident to the police, it will be recorded and investigated as appropriate. The minimum detail required to make a report of a hate crime/incident is
 
@@ -46,10 +42,10 @@ If it is an emergency where life is threatened, people are injured or offenders 
 
 ### Third Parties
 
-This means if you do not want to speak to the police yourself, you or a friend can do it through a specially trained people who will do it on your behalf. Such as:
+**This means if you do not want to speak to the police yourself, you or a friend can do it through a specially trained people who will do it on your behalf. Such as:**
 
-Stop Hate UK http://www.stophateuk.org/
-True Vision http://www.report-it.org.uk/home
-Stop Hate BSL Service http://interpreternow.co.uk/stop-hate-uk
+- [Stop Hate UK](http://www.stophateuk.org/)
+- [True Vision](http://www.report-it.org.uk/home)
+- [Stop Hate BSL Service](http://interpreternow.co.uk/stop-hate-uk)
 
-Be a hero and #CallTimeOut on Hate Crime
+<img width="512" src="/assets/images/LH-2017-WEBSITE-CALLTIMEOUT.jpg" alt="Be a Hero... #CallTimeOut on Hate Crime.">

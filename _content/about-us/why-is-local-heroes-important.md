@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: "/about-us/why-is-local-heroes-important"
+permalink: "/about-us/why-is-local-heroes-important/"
 section: /about-us
 section_order: 5
 title: Why is Local Heroes important?

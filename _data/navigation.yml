@@ -3,8 +3,6 @@ links:
     text: Home
   - link: /about-us
     text: About us
-  - link: /our-work
-    text: Our work
   - link: /our-team
     text: Our team
   - link: /our-heroes
@@ -13,9 +11,11 @@ links:
     text: Our partners
   - link: /testimonials
     text: Testimonials
-  - link: /news
-    text: News
+  - link: /get-involved
+    text: Get involved
+  - link: /call-timeout
+    text: Call timeout
+  - link: /what-is-hate-crime
+    text: What is Hate Crime?
   - link: /donate
     text: Donate
-  - link: /contact-us
-    text: Contact us

@@ -1,6 +1,6 @@
 ---
 layout: team-member
-permalink: "/our-team/alan-quick"
+permalink: "/our-team/alan-quick/"
 parent: /our-team/
 title: Alan Quick
 status: published

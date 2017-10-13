@@ -1,6 +1,6 @@
 ---
 layout: local-hero
-permalink: "/our-heroes/glenn-cosby"
+permalink: "/our-heroes/glenn-cosby/"
 title: Glenn Cosby
 status: published
 imgBanner: /assets/images/pages/

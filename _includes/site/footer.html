@@ -1,7 +1,7 @@
 <footer class="site__footer">
   <div class="row">
     <div class="large-12 columns">
-      <ul class="vertical medium-horizontal menu">
+      <ul class="simple menu show-for-large">
       {% for link in site.data.navigation.links %}
         <li><a href="{{ site.baseurl }}{{ link.link }}">{{ link.text}}</a></li>
       {% endfor %}

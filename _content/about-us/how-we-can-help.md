@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: "/about-us/how-we-can-help-parents-and-carers"
+permalink: "/about-us/how-we-can-help-parents-and-carers/"
 section: /about-us
 section_order: 1
 title: How we can help parents and carers

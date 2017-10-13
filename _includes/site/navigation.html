@@ -7,16 +7,9 @@
     <div class="top-bar" id="navigation-menu">
       <div class="top-bar left">
         <ul class="vertical medium-horizontal menu">
-          <li><a href="{{ site.url }}">Home</a></li>
-          <li><a href="{{ site.baseurl }}/about-us">About us</a></li>
-          <li><a href="{{ site.baseurl }}/our-team">Our team</a></li>
-          <li><a href="{{ site.baseurl }}/our-heroes">Our heroes</a></li>
-          <li><a href="{{ site.baseurl }}/our-partners">Our partners</a></li>
-          <li><a href="{{ site.baseurl }}/testimonials">Testimonials</a></li>
-          <li><a href="{{ site.baseurl }}/get-involved">Get involved</a></li>
-          <li><a href="{{ site.baseurl }}/call-timeout">Call time out</a></li>
-          <li><a href="{{ site.baseurl }}/donate">Donate</a></li>
-          <li><a href="{{ site.baseurl }}/contact-us">Contact us</a></li>
+          {% for link in site.data.navigation.links %}
+            <li><a href="{{ site.baseurl }}{{ link.link }}">{{ link.text}}</a></li>
+          {% endfor %}
         </ul>
       </div>
     </div>

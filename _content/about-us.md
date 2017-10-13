@@ -10,7 +10,7 @@ imgThumbnail: /assets/images/pages/
 ---
 
 <div class="responsive-embed">
-<iframe class="" src="https://www.youtube.com/embed/ffvtLezqHeY" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/zZbP_lQs5d8?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Local Heroes is a growing anti-hate crime charity that exists to inspire young people from all backgrounds to maximise their potential and the role they play in society. We support their development by working with “local heroes” to raise awareness of prejudice and hate crime; empowering them to celebrate diversity, value difference, nurture change and prevent bullying.

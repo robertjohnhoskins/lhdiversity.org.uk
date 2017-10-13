@@ -1,6 +1,6 @@
 ---
 layout: local-hero
-permalink: "/our-heroes/sarah-guest"
+permalink: "/our-heroes/sarah-guest/"
 title: Sarah Guest
 status: published
 imgBanner: /assets/images/pages/

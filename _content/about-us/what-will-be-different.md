@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: "/about-us/what-will-be-different"
+permalink: "/about-us/what-will-be-different/"
 section: /about-us
 section_order: 6
 title: What will be different?

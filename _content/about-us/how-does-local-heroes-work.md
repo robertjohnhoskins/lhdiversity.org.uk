@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: "/about-us/how-does-local-heroes-work"
+permalink: "/about-us/how-does-local-heroes-work/"
 section: /about-us
 section_order: 4
 title: How does Local Heroes work?

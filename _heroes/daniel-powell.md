@@ -1,6 +1,6 @@
 ---
 layout: local-hero
-permalink: "/our-heroes/daniel-powell"
+permalink: "/our-heroes/daniel-powell/"
 title: Daniel Powell
 status: published
 imgBanner: /assets/images/pages/

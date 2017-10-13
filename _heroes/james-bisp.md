@@ -1,6 +1,6 @@
 ---
 layout: local-hero
-permalink: "/our-heroes/james-bisp"
+permalink: "/our-heroes/james-bisp/"
 title: James Bisp
 status: published
 imgBanner: /assets/images/pages/

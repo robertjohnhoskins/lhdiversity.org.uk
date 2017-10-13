@@ -1,6 +1,6 @@
 ---
 layout: local-hero
-permalink: "/our-heroes/elliot-hoyte"
+permalink: "/our-heroes/elliot-hoyte/"
 title: Elliot Hoyte
 status: published
 imgBanner: /assets/images/pages/

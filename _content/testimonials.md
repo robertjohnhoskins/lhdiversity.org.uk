@@ -13,7 +13,7 @@ status: published
 <img src="{{ site.baseurl }}{{ testimony.portrait }}" alt="{{ testimony.title }}" class="thumbnail image--full">
 </div>
 <div class="large-9 columns">
-<h4><a href="{{ testimony.url }}">{{ testimony.title }}</a></h4>
+<h4>{{ testimony.title }}</h4>
 {{ testimony.content }}
 </div>
 </div>

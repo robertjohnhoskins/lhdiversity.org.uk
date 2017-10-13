@@ -1,6 +1,6 @@
 ---
 layout: local-hero
-permalink: "/our-heroes/gemma-oaten"
+permalink: "/our-heroes/gemma-oaten/"
 title: Gemma Oaten
 status: published
 imgBanner: /assets/images/pages/

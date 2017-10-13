@@ -1,6 +1,6 @@
 ---
 layout: local-hero
-permalink: "/our-heroes/annie-vernon"
+permalink: "/our-heroes/annie-vernon/"
 title: Annie Vernon
 status: published
 imgBanner: /assets/images/pages/

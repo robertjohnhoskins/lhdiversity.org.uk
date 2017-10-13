@@ -1,6 +1,6 @@
 ---
 layout: team-member
-permalink: "/our-team/dan-coxon"
+permalink: "/our-team/dan-coxon/"
 title: Dan Coxon
 status: published
 imgBanner: /assets/images/pages/

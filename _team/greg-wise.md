@@ -1,6 +1,6 @@
 ---
 layout: team-member
-permalink: "/our-team/greg-wise"
+permalink: "/our-team/greg-wise/"
 title: Greg Wise
 status: published
 imgBanner: /assets/images/pages/
